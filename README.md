@@ -1,6 +1,6 @@
 # Nginx As A LoadBalancer Using Docker
 #### In this Guide we will discuss how to setup multible servers on containers and make a Nginx container acts as a load balancer
-What's LoadBalancer : 
+What's LoadBalancer : \
 ![image](https://github.com/user-attachments/assets/bbf939cc-f49e-4bd3-ae44-8cae6390ceaa)
 \
 \
