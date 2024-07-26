@@ -2,10 +2,7 @@
 #### In this Guide we will discuss how to setup multible servers on containers and make a Nginx container acts as a load balancer
 What's LoadBalancer : \
 ![image](https://github.com/user-attachments/assets/bbf939cc-f49e-4bd3-ae44-8cae6390ceaa)
-\
-\
-\
-\
+
 \
 \
 Load balancer is just like a router, it efficiently distributing incoming network traffic and also the method to solve high concurrency problem. In this Guide, I will use Nginx and docker to build load balancer, hope you guys will like it.
